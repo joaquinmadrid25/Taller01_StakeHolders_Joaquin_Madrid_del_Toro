@@ -1,4 +1,4 @@
-# # Materialidad para Consultora Web
+# Materialidad para Consultora Web
 
 ## Fase 1: Investigación Rigurosa (10 min)
 

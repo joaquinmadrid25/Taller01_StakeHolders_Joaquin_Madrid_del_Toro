@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="empresa_sostenible">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="stakeholder" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:attribute name="importancia" type="xs:string" use="required"/>
+            <xs:attribute name="nombre" type="xs:string" use="required"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tema_material" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="descripcion" type="xs:string"/>
+              <xs:element name="nivel_impacto" type="xs:string"/>
+            </xs:sequence>
+            <xs:attribute name="nivel_asg" use="required">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:enumeration value="Ambiental"/>
+                  <xs:enumeration value="Social"/>
+                  <xs:enumeration value="Gobernanza"/>
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:attribute>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

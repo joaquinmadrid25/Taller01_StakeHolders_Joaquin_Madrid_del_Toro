@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="materialidad.xsd" type="application/xml"?>
+<empresa_sostenible>
+    <stakeholder importancia="alta" nombre="Clientes"/>
+    <stakeholder importancia="media" nombre="Empleados"/>
+    <stakeholder importancia="media" nombre="Comunidad"/>
+
+    <tema_material nivel_asg="Ambiental">
+        <descripcion>Eficiencia energética del código para reducir consumo de servidores y dispositivos.</descripcion>
+        <nivel_impacto>Alto</nivel_impacto>
+    </tema_material>
+
+    <tema_material nivel_asg="Social">
+        <descripcion>Accesibilidad universal en el diseño y desarrollo de sitios web para todos los usuarios.</descripcion>
+        <nivel_impacto>Medio</nivel_impacto>
+    </tema_material>
+
+    <tema_material nivel_asg="Gobernanza">
+        <descripcion>Privacidad de datos y cumplimiento de protección de la información personal.</descripcion>
+        <nivel_impacto>Alto</nivel_impacto>
+    </tema_material>
+    
+    <tema_material nivel_asg="Ambiental">
+        <descripcion>Uso de tecnologías sostenibles y energías renovables en la infraestructura tecnológica.</descripcion>
+        <nivel_impacto>Alto</nivel_impacto>
+    </tema_material>
+    
+    <tema_material nivel_asg="Social">
+        <descripcion>Fomento de la diversidad e inclusión en el equipo de desarrollo y en la comunidad tecnológica.</descripcion>
+        <nivel_impacto>Medio</nivel_impacto>
+    </tema_material>
+    
+    <tema_material nivel_asg="Gobernanza">
+        <descripcion>Transparencia en la gestión de proyectos y en la comunicación con los stakeholders.</descripcion>
+        <nivel_impacto>Medio</nivel_impacto>
+    </tema_material>
+</empresa_sostenible>

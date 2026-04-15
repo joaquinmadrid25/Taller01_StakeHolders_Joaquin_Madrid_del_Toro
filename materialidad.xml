@@ -19,19 +19,4 @@
         <descripcion>Privacidad de datos y cumplimiento de protección de la información personal.</descripcion>
         <nivel_impacto>Alto</nivel_impacto>
     </tema_material>
-    
-    <tema_material nivel_asg="Ambiental">
-        <descripcion>Uso de tecnologías sostenibles y energías renovables en la infraestructura tecnológica.</descripcion>
-        <nivel_impacto>Alto</nivel_impacto>
-    </tema_material>
-    
-    <tema_material nivel_asg="Social">
-        <descripcion>Fomento de la diversidad e inclusión en el equipo de desarrollo y en la comunidad tecnológica.</descripcion>
-        <nivel_impacto>Medio</nivel_impacto>
-    </tema_material>
-    
-    <tema_material nivel_asg="Gobernanza">
-        <descripcion>Transparencia en la gestión de proyectos y en la comunicación con los stakeholders.</descripcion>
-        <nivel_impacto>Medio</nivel_impacto>
-    </tema_material>
 </empresa_sostenible>

@@ -14,13 +14,6 @@ Este análisis se basa en el documento BBDD_Academicas y en la búsqueda de tér
 - **Accesibilidad universal** — ASG: Social
 - **Privacidad de datos** — ASG: Gobernanza
 
-### Fuentes (IEEE)
-[1] W3C, "Web Content Accessibility Guidelines (WCAG) 2.1," 2018.
-
-[2] European Parliament, "Regulation (EU) 2016/679 (General Data Protection Regulation)," 2016.
-
-[3] J. Koomey, "Estimating Total Power Consumption by Servers in the U.S. and the World," Stanford University, 2007.
-
 ## Uso
 1. Abrir `materialidad.xml` en un editor XML.
 2. Validar la estructura con `materialidad.xsd`.

@@ -2,7 +2,7 @@
 
 ## Fase 1: Investigación Rigurosa (10 min)
 
-Este análisis se basa en el documento `BBDD_Academicas` y en la búsqueda de términos clave como "Green IT" y "Materiality in ICT". El objetivo fue identificar los grupos de interés y temas materiales más relevantes para una consultora web.
+Este análisis se basa en el documento BBDD_Academicas y en la búsqueda de términos clave como "Green IT" y "Materiality in ICT". El objetivo fue identificar los grupos de interés y temas materiales más relevantes para una consultora web.
 
 ### Grupos de interés clave
 - **Clientes**: usuarios finales interesados en la seguridad, rendimiento y accesibilidad de los productos digitales.
